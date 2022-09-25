@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ömer Alp Çolak</h1>
-<h3 align="center">I’m interested in game developing and game design and currently learning **C# and Unity**</h3>
+<h3 align="center">I’m interested in game developing and game design! Currently learning **C# and Unity**</h3>
 
 📫 How to reach me **omer.alp.colak@gmail.com**
 
